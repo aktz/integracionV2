@@ -22,7 +22,7 @@ if($con){
         </script>';
     }
 }else{
-    echo "no conectado bro..";
+    echo "No te has conectado";
 }
 
 ?>
